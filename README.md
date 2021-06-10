@@ -1,2 +1,2 @@
 # webshare
-bootstrap boilerplate to website content and files for security and testing
+bootstrap boilerplate website content and files for security and testing
